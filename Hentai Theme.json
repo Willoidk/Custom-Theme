@@ -83,7 +83,7 @@
   },
   "spec": 2,
   "background": {
-    "blur": 0.3,
+    "blur": 0.8,
     "url": "https://raw.githubusercontent.com/Willoidk/Custom-Theme/Principal/Background/Pokemon%20Diives.gif",
     "alpha": 0.7
   }
