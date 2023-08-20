@@ -1,5 +1,5 @@
 {
-  "name": "Comfy Hentai",
+  "name": "Comfy Custom",
   "description": "Custom comfy while talking to your friends",
   "authors": [
     {
@@ -84,7 +84,7 @@
   "spec": 2,
   "background": {
     "blur": 0.8,
-    "url": "https://raw.githubusercontent.com/Willoidk/Custom-Theme/Principal/Background/Polish_20230423_201503872.jpg",
+    "url": "https://media.discordapp.net/attachments/763476966241599518/1142852982162083840/VaiWHf6C.jpg",
     "alpha": 0.7
   }
 }
