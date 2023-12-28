@@ -68,9 +68,9 @@
   },
   "spec": 2,
   "background": {
-    "blur": 3,
+    "blur": 0,
     "url": "https://raw.githubusercontent.com/Willoidk/Custom-Theme/Principal/Background/Polish_20231227_215335769.png",
-    "alpha": 3.9,
+    "alpha": 0.9,
     "color": "#0A0A0A"
   }
 }
